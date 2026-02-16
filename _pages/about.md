@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (Born as Campos Muñiz; internationally adjusted to Campos-Muñiz so databases don’t panic)
+subtitle: (Born as Campos Muñiz; internationally adjusted to Campos-Muniz so databases don’t panic)
 
 profile:
   align: right
