@@ -208,7 +208,6 @@ exclude:
   - _posts/
   - _projects/?_project.md
   - _pages/repositories.md
-  - _pages/publications.md
   - _pages/cv.md
   - _teachings
   - _pages/submenus.md
