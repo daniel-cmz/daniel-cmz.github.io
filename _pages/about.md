@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cde.nus.edu.sg/did/'>Division of Industrial Design</a>. Singapore. daniel_cm@u.nus.edu.
+subtitle: (Born as Campos Muñiz; internationally adjusted to Campos-Muñiz so databases don’t panic)
 
 profile:
   align: right
