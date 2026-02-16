@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daniel-cmz.github.io/al-folio/sitemap.xml
+Sitemap: https://daniel-cmz.github.io/sitemap.xml
