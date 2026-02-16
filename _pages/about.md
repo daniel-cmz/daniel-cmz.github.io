@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (Born as Campos Muñiz, but written as Campos-Muniz so databases don’t panic)
+subtitle: (Campos-Muñiz or Campos-Muniz depending on the system)
 
 profile:
   align: right
