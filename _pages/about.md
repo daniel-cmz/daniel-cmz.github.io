@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the <a href='https://cde.nus.edu.sg/did/'>Division of Industrial Design</a> at the <a href='https://nus.edu.sg/'>National University of Singapore</a>, supervised by Janghee Cho and Jung-Joo Lee. My research lies at the intersection of Design, Care, and Sociotechnical Futures. I examine how speculative and participatory design practices can be mobilized to explore alternative futures of the care economy, particularly from the perspectives of migrant workers who are often excluded from dominant future imaginaries.
+I am a PhD student in the <a href='https://cde.nus.edu.sg/did/'>Division of Industrial Design</a> at the <a href='https://nus.edu.sg/'>National University of Singapore</a>, supervised by Janghee Cho and Jung-Joo Lee. My research lies at the intersection of Design, Care, and Sociotechnical Futures. 
 
-My work focuses on the ongoing practices through which care networks are made, sustained, negotiated, and at times resisted, especially in contexts marked by power asymmetries and material scarcity. Through qualitative research and collaborative design engagements, I analyze how relations within these networks are formed and maintained, and how structural conditions shape which forms of care become possible, visible, and socially valued.
+I explore how everyday practices, through which care networks are made, sustained, and negotiated can serve as grounded entry points for speculative and participatory design. Focusing on migrant workers, whose perspectives are frequently excluded in dominant future imaginaries, I examine how relational labour is enacted. Through qualitative research and collaborative design engagements, I analyse everyday practices and mobilise these situated insights to speculate on alternative futures of the care economy that emerge from, rather than abstract away from, lived experience.
 
 I completed my Master’s degree in Industrial Design in the Postgraduate Programme in Industrial Design at the National University of Mexico. My research has been published in venues such as Journal of Futures Studies and Economía Creativa.
 
