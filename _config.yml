@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Daniel Campos-Muñiz # the website title (if blank, full name will be used instead)
+title: Daniel Campos Muñiz # the website title (if blank, full name will be used instead)
 first_name: Daniel
 middle_name:
-last_name: Campos-Muñiz
+last_name: Campos Muñiz
 #contact_note: >
  # You can even add a little note about which of these is the best way to reach you.
 #description: > # the ">" symbol means to ignore newlines until "footer_text:"
