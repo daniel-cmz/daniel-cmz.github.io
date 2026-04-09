@@ -7,8 +7,9 @@ importance: 1
 category: current
 related_publications: true
 ---
+Overall research aim: This design research project explores alternative futures for the care economy in Singapore through participatory futuring with formal and informal migrant care workers. Positioning care as both a method and an analytical lens, the program comprises a series of design experiments that investigate how the care economy might be reimagined and reconfigured
 
-This research project explore alternative futures for the care economy, through participatory futuring with formal and informal Migrant Care Workers. Embedding care across the methods, and analytical lens, in this research we conduct a series of design experiments to examine how else could care economy function in Singapore?
+
 
 <h3>Related papers</h3>
 
