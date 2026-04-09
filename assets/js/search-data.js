@@ -31,9 +31,9 @@ ninja.data = [{
             },},{id: "news-our-paper-it-s-messy-but-i-feel-balanced-unpacking-flexible-worker-s-rhythm-making-practices-using-asset-based-approach-was-conditionally-accepted-for-chi26",
           title: 'Our paper “It’s Messy…But I Feel Balanced”: Unpacking Flexible Worker’s Rhythm-Making Practices Using...',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-envisioning-the-care-economy-otherwise-migrant-workers-39-speculative-futures-for-sustainable-and-decent-care-work",
+          title: 'Envisioning the Care Economy Otherwise - Migrant Workers&amp;#39; Speculative Futures for Sustainable and...',
+          description: "This research project explore futures protrayalas of care economy with formal and informal Migrant Care Workers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
