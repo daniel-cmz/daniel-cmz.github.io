@@ -2,7 +2,7 @@
 layout: page
 title: Envisioning the Care Economy Otherwise - Migrant Workers' Speculative Futures for Sustainable and Decent Care Work
 description: How else care economy can function? And how migrant care workers values and desires can reshape technologies, services and policies?
-img: assets/img/MDWs.jpg
+img: assets/img/WorkshopPhoto.png
 importance: 1
 category: current
 related_publications: true
