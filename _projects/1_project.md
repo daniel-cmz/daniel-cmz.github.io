@@ -14,8 +14,10 @@ Overall research aim: This design research project explores alternative futures 
 <h3>Related papers</h3>
 
 <h5>Design for Care-Full Inclusion: Foregrounding the Voices of Vulnerable Communities Through Vignettes in Co-design</h5>
-**Summary:** This paper explores how a care-oriented approach to vignette-making can amplify the voices of migrant care workers in co-design workshops. It shows that vignettes help surface lived experiences, foster empathy, and support more inclusive participation despite structural barriers, ultimately enabling more care-full and equitable design processes.&nbsp
-**Conference:** DRS26&nbsp
+**Summary:** This paper explores how a care-oriented approach to vignette-making can amplify the voices of migrant care workers in co-design workshops. It shows that vignettes help surface lived experiences, foster empathy, and support more inclusive participation despite structural barriers, ultimately enabling more care-full and equitable design processes.
+
+**Conference:** DRS26
+
 **Status:** Accepted, to be published
 
 
