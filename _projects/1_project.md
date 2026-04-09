@@ -30,7 +30,7 @@ Overall research aim: This design research project explores alternative futures 
     An example vignette showcasing the theme ‘Accountability of Robot Malfunctions,’ highlighting the responsibility of migrant care workers in managing and maintaining the technology.
 </div>
 
-<h3>Work in progress/h3>
+<h3>Work in progress</h3>
 <h5>Mapping and Reimagining Care Networks with Migrant Domestic Workers</h5>
 **Summary:** Beyond domestic chores, Migrant Domestic Workers (MDWs) are crucial actors in Singapore’s care economy, providing informal paid care for both children and older adults. Their impact also extends to their home countries, where they contribute not only through remittances but also as unpaid caregivers offering emotional and affective support.
     Despite this dual and transnational role, their perspectives are rarely included in shaping the future of the care economy. This study explores with 12 MDWs how they navigate and sustain care networks. Using a scaffolded storytelling approach with material artefacts, participants also co-created “magic things” to imagine future artefacts that could better support their roles.
