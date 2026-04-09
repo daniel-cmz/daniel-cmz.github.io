@@ -39,6 +39,6 @@ Overall research aim: This design research project explores alternative futures 
         {% include figure.liquid loading="eager" path="assets/img/WorkshopPhoto.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div> class="caption">
+<div class="caption">
     An example vignette showcasing the theme ‘Accountability of Robot Malfunctions,’ highlighting the responsibility of migrant care workers in managing and maintaining the technology.
 </div>
