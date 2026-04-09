@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Envisioning the Care Economy Otherwise: Migrant workers' Speculative Futures for Sustainable and Decent Care Work
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/MDWs.jpg
 importance: 1
-category: work
+category: current
 related_publications: true
 ---
 
