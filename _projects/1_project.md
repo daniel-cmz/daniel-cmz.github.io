@@ -34,8 +34,8 @@ Overall research aim: This design research project explores alternative futures 
 <h5>Mapping and Reimagining Care Networks with Migrant Domestic Workers</h5>
 **Summary:** Beyond domestic chores, Migrant Domestic Workers (MDWs) are crucial actors in Singapore’s care economy, providing informal paid care for both children and older adults. Their impact also extends to their home countries, where they contribute not only through remittances but also as unpaid caregivers offering emotional and affective support.
     Despite this dual and transnational role, their perspectives are rarely included in shaping the future of the care economy. This study explores with 12 MDWs how they navigate and sustain care networks. Using a scaffolded storytelling approach with material artefacts, participants also co-created “magic things” to imagine future artefacts that could better support their roles.
-    <div class="row">
-       <div class="col-sm-6 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/WorkshopPhoto.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
