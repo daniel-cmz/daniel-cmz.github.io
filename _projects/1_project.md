@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Envisioning the Care Economy Otherwise: Migrant workers' Speculative Futures for Sustainable and Decent Care Work
-description: with background image
+description: This research project explore futures protrayalas of care economy with formal and informal Migrant Care Workers
 img: assets/img/MDWs.jpg
 importance: 1
 category: current
