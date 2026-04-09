@@ -205,7 +205,6 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
-  - _projects/?_project.md
   - _pages/repositories.md
   - _pages/cv.md
   - _teachings
