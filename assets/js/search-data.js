@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-design-for-care-full-inclusion-foregrounding-the-voices-of-vulnerable-communities-through-vignettes-in-co-design-was-accepted-for-presentation-at-drs26-layout-post-date-2026-01-15-inline-true-related-posts-false-our-paper-it-s-messy-but-i-feel-balanced-unpacking-flexible-worker-s-rhythm-making-practices-using-asset-based-approach-was-accepted-for-presentation-at-chi26",
-          title: 'Our paper Design for care-full inclusion: Foregrounding the voices of vulnerable communities through...',
+            },},{id: "news-our-paper-it-s-messy-but-i-feel-balanced-unpacking-flexible-worker-s-rhythm-making-practices-using-asset-based-approach-was-accepted-for-presentation-at-chi26",
+          title: 'Our paper “It’s Messy…But I Feel Balanced”: Unpacking Flexible Worker’s Rhythm-Making Practices Using...',
           description: "",
           section: "News",},{id: "news-our-paper-design-for-care-full-inclusion-foregrounding-the-voices-of-vulnerable-communities-through-vignettes-in-co-design-was-accepted-for-presentation-at-drs26",
           title: 'Our paper Design for care-full inclusion: Foregrounding the voices of vulnerable communities through...',
