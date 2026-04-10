@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-it-s-messy-but-i-feel-balanced-unpacking-flexible-worker-s-rhythm-making-practices-using-asset-based-approach-was-conditionally-accepted-for-chi26",
-          title: 'Our paper “It’s Messy…But I Feel Balanced”: Unpacking Flexible Worker’s Rhythm-Making Practices Using...',
+            },},{id: "news-our-paper-design-for-care-full-inclusion-foregrounding-the-voices-of-vulnerable-communities-through-vignettes-in-co-design-was-accepted-for-presentation-at-drs26-layout-post-date-2026-01-15-inline-true-related-posts-false-our-paper-it-s-messy-but-i-feel-balanced-unpacking-flexible-worker-s-rhythm-making-practices-using-asset-based-approach-was-accepted-for-presentation-at-chi26",
+          title: 'Our paper Design for care-full inclusion: Foregrounding the voices of vulnerable communities through...',
           description: "",
           section: "News",},{id: "projects-envisioning-the-care-economy-otherwise-migrant-care-workers-39-speculative-futures-for-sustainable-and-decent-care-work",
           title: 'Envisioning the Care Economy Otherwise - Migrant Care Workers&amp;#39; Speculative Futures for Sustainable...',
